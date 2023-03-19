@@ -1,5 +1,7 @@
 ## Versioning Build
 
+# FOCUS on bin DIR
+
 ### this one based on previous repo 
 https://github.com/hexhad/versioning-react-native-android
 
